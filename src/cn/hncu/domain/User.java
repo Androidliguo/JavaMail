@@ -2,6 +2,20 @@ package cn.hncu.domain;
 /**
  * test test test test test 
  * @author liguo
+ * 
+ * 
+ * 
+ * test
+ * test
+ * tst
+ * test
+ * txt
+ * test
+ * tst
+ * test
+ * test
+ * test
+ * 
  *
  */
 public class User {
