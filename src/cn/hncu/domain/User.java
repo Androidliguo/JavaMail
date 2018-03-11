@@ -1,5 +1,9 @@
 package cn.hncu.domain;
-
+/**
+ * te
+ * @author liguo
+ *
+ */
 public class User {
 	private String id;
 	private String name;
